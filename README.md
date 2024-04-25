@@ -42,5 +42,4 @@ Example: A `Test.txt` file was uploaded, containing only the text `These are som
 
 ## Notes
 
-- The files that get uploaded would be stored in the project's `uploads\` folder (which will get created if such a folder does not exist).
-- The application checks to see if a file was selected for upload. If not, then it will return an error to the user as a JSON object, stating `A file must be uploaded.`.
+The application checks to see if a file was selected for upload. If not, then it will return an error to the user as a JSON object, stating `A file must be uploaded.`.
